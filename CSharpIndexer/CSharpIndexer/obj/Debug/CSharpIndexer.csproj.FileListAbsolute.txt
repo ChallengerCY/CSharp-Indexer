@@ -1,0 +1,6 @@
+c:\visual studio 2013\Projects\CSharpIndexer\CSharpIndexer\bin\Debug\CSharpIndexer.exe.config
+c:\visual studio 2013\Projects\CSharpIndexer\CSharpIndexer\obj\Debug\CSharpIndexer.csprojResolveAssemblyReference.cache
+c:\visual studio 2013\Projects\CSharpIndexer\CSharpIndexer\bin\Debug\CSharpIndexer.exe
+c:\visual studio 2013\Projects\CSharpIndexer\CSharpIndexer\bin\Debug\CSharpIndexer.pdb
+c:\visual studio 2013\Projects\CSharpIndexer\CSharpIndexer\obj\Debug\CSharpIndexer.exe
+c:\visual studio 2013\Projects\CSharpIndexer\CSharpIndexer\obj\Debug\CSharpIndexer.pdb
